@@ -19,3 +19,4 @@ mysqli_query($koneksi, $ini_query);
 header("Location: ./index.php");
 
 exit;
+?>
